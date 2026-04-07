@@ -1,0 +1,15 @@
+{
+  "gmail": [
+    "send_mass_email",
+    "delete_thread",
+    "send_with_attachment_over_5mb"
+  ],
+  "google_calendar": [
+    "delete_all_events",
+    "share_calendar_externally"
+  ],
+  "slack": [
+    "post_to_public_channel",
+    "send_dm_to_all_members"
+  ]
+}
